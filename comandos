@@ -1,5 +1,5 @@
 Os comandos abaixo foram testados em um terminal do windows, mas podem ser testados em outros sistemas operacionais.
-Antes de iniciar, deve-se instalar um servidor web local e banco de dados, no meu caso utilizo o XAMPP Control Panel v3.2.2, PHP 7.2.8, Apache 2.4.34, SGBD MariaDB 10.1.34,phpMyAdmin 4.8.5.
+Antes de iniciar, deve-se instalar um servidor web local e banco de dados, no meu caso utilizo o XAMPP Control Panel v3.2.2, PHP 7.2.8, Apache 2.4.34, SGBD MariaDB 10.1.34,phpMyAdmin 4.8.2.
 Comando básico para criar seu projeto, em seu terminal em um local desejado, digite o seguinte comando:
 **********************************************************************
 composer create-project laravel/laravel nomedoseuprojeto --prefer-dist
