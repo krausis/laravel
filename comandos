@@ -1,0 +1,7 @@
+Os comandos abaixo foram testados em um terminal do windows, mas podem ser testados em outros sistemas operacionais.
+Antes de iniciar, deve-se instalar um servidor web local e banco de dados, no meu caso utilizo o xampp v3.2.2 com servidor Apache e SGDB MySQL.
+Comando básico para criar seu projeto, em seu terminal em um local desejado, digite o seguinte comando:
+**********************************************************************
+composer create-project laravel/laravel nomedoseuprojeto --prefer-dist
+**********************************************************************
+*Este comando irá criar uma pasta com o nome indicado em 'nomedoseuprojeto' no local onde foi dado o comando e criará toda a estrutura laravel*
