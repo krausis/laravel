@@ -5,3 +5,7 @@ Comando básico para criar seu projeto, em seu terminal em um local desejado, di
 composer create-project laravel/laravel nomedoseuprojeto --prefer-dist
 **********************************************************************
 *Este comando irá criar uma pasta com o nome indicado em 'nomedoseuprojeto' no local onde foi dado o comando e criará toda a estrutura laravel*
+Comando para carregar os links das imagens. (Certifique-se de deletar o atalho de pasta 'storage' da pasta public antes de executar)
+************************
+php artisan storage:link
+************************
